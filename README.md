@@ -1,0 +1,2 @@
+# Python-sami
+ChatGPT said:  A Python repository on GitHub is a project folder that stores Python code, scripts, and resources. It enables version control, collaboration, and issue tracking. Developers use Git for commits, branches, and pull requests. It often includes files like main.py, requirements.txt, and README.md for documentation and setup.
