@@ -6,3 +6,8 @@
 - It is easy to debug and extend.
 - Python is versatile — used for web development, game development, data science, artificial intelligence (AI), machine learning, and more.
 - It has a large and supportive community with many open-source libraries and frameworks.
+
+
+# Now Install the python
+- if you need help check the first three lecture for python instalation also env create
+(https://github.com/BurhanAli232/Python_Afwera.git)
